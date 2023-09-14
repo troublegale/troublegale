@@ -1,1 +1,1 @@
-Ivan, 18 | RU, Saint-P | ITMO, 1st year, Software Engineering | No idea what I'm doing
+Ivan, 18 | RU, Saint-P | ITMO, 2nd year, Software Engineering | Starting to realise what I'm doing
