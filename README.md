@@ -6,7 +6,7 @@
 
 # Contacts #
 - hopsblockery@gmail.com
-- TG: @lambdamale
+- tg: @lambdamale
 
 # Education #
 - Currently studying at [ITMO University](https://en.itmo.ru/)
