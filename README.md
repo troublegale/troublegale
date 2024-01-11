@@ -48,7 +48,7 @@
 		- React + Redux
 	- C++
 	- Algorythms & Data Structures (stand-alone course)
- 	- C# (Planning on switching from Java cause C# seems more interesting and welcoming)
+ 	- C# (Planning on switching from Java because C# seems more interesting and welcoming)
   	- .NET
 
 # Personal Interests #
