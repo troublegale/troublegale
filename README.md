@@ -20,6 +20,11 @@
 	- Java Servlet API
 	- JSP
 	- JDBC
+   	- JSF
+   	- JPA
+	- ORM
+		- Hibernate
+		- EclipseLink
 	- HTML
 	- CSS
 	- JS
@@ -33,11 +38,6 @@
 	- LaTeX
 	- Markdown
 - **Currently learning or going to learn**
-	- JSF
-	- ORM
-		- Hibernate
-		- EclipseLink
-	- JPA
 	- Spring
 		- Spring Runtime
 		- Spring Security
