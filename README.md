@@ -48,10 +48,13 @@
 		- React + Redux
 	- C++
 	- Algorythms & Data Structures (stand-alone course)
+ 	- C# (Planning on switching from Java cause C# seems more interesting and welcoming)
+  	- .NET
 
 # Personal Interests #
-- Playing drums for 5 years
+- Playing drums for 6 years
+- Strongly intend to learn to play bass, but don't have an instrument right now
 - I do love music (here's my [Spotify](https://open.spotify.com/user/31w5lxhoc74odz4fcialhynd2dom?si=4ad4a796de8e47ad) if you're interested)
 - Videogames (especially Souls-likes, Rogue-likes and indie stuff)
 - Speedruns (a piece of [intro info](https://www.speedrun.com/about))
-- Languages
+- Languages (both natural and programming languages)
