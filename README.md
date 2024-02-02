@@ -25,9 +25,14 @@
 	- ORM
 		- Hibernate
 		- EclipseLink
+  	- Spring
+		- Spring Boot
+		- Spring Security
+		- Spring Data
 	- HTML
 	- CSS
 	- JS
+ 		- React + Redux
 	- PHP
 	- PostgreSQL
 	- Linux
@@ -38,14 +43,6 @@
 	- LaTeX
 	- Markdown
 - **Currently learning or going to learn**
-	- Spring
-		- Spring Runtime
-		- Spring Security
-		- Spring Data
-	- JS Frameworks
-		- Angular
-		- Vue.js
-		- React + Redux
 	- C++
 	- Algorythms & Data Structures (stand-alone course)
  	- C# (Planning on switching from Java because C# seems more interesting and welcoming)
