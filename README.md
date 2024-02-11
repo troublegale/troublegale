@@ -34,6 +34,7 @@
 	- JS
  		- React + Redux
 	- PHP
+ 	- Python
 	- PostgreSQL
 	- Linux
 	- Git
