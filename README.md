@@ -16,7 +16,7 @@
 
 # Technologies
 Currently learning **Go** and planning on applying for a job with this language
-##### What I learnt
+#### What I learnt
 - Java
 	- Core
 	- Collections
@@ -29,7 +29,7 @@ Currently learning **Go** and planning on applying for a job with this language
 - Git
 - LaTeX
 - Markdown
-##### What I came across (not confident enough to say 'learnt')
+#### What I came across (not confident enough to say 'learnt')
 - Spring (Boot, Data, Security)
 - HTML
 - CSS
@@ -41,7 +41,7 @@ Currently learning **Go** and planning on applying for a job with this language
 - C++
 - Linux, bash
 - Algorythms and Data Structures
-##### Intending to learn in the nearest future
+#### Intending to learn in the nearest future
 - Go
 - gRPC
 - Docker
