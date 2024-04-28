@@ -22,9 +22,6 @@ Currently learning **Go** and planning on applying for a job with this language
 	- Collections
 	- Servlets, JSP, JSF
 	- JDBC, JPA, ORM (Hibernate, Eclipse Link)
-	- Java Servlet API
-	- JSP
-	- JDBC
 - SQL (Postgres)
 - Git
 - LaTeX
