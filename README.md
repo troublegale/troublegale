@@ -36,6 +36,7 @@ Currently learning **Go** and planning on applying for a job with this language
 - Assembly
 - C
 - C++
+- Makefile
 - Linux, bash
 - Algorythms and Data Structures
 #### Intending to learn in the nearest future
@@ -44,6 +45,8 @@ Currently learning **Go** and planning on applying for a job with this language
 - Docker
 - Kafka
 - Redis
+- Kubernetes
+- Delve into Makefile, Linux, Algo&DS, React
 
 # Personal Interests #
 - Playing drums for 6+ years
