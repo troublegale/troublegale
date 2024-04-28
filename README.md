@@ -1,7 +1,7 @@
 # Personal info #
 - **Ivan Kozhukhin**, 19 y.o.
 - Born in **Rostov-on-Don**, Russia
-- Currently living in **Saint-Petersburg**
+- Currently living and studying in **St. Petersburg**
 - English C1/C2
 
 # Contacts #
@@ -15,42 +15,41 @@
 - Planning to attend additional software engineering courses
 
 # Technologies
-- **Learnt or came across at some point**
-	- Java Core
+Currently learning **Go** and planning on applying for a job with this language
+##### What I learnt
+- Java
+	- Core
+	- Collections
+	- Servlets, JSP, JSF
+	- JDBC, JPA, ORM (Hibernate, Eclipse Link)
 	- Java Servlet API
 	- JSP
 	- JDBC
-   	- JSF
-   	- JPA
-	- ORM
-		- Hibernate
-		- EclipseLink
-  	- Spring
-		- Spring Boot
-		- Spring Security
-		- Spring Data
-	- HTML
-	- CSS
-	- JS
- 		- React + Redux
-	- PHP
- 	- Python
-	- PostgreSQL
-	- Linux
-	- Git
-	- Assembly
-	- C
-	- Makefile
-	- LaTeX
-	- Markdown
-- **Currently learning or going to learn**
-	- C++
-	- Algorythms & Data Structures (stand-alone course)
- 	- C# (Planning on switching from Java because C# seems more interesting and welcoming)
-  	- .NET
+- SQL (Postgres)
+- Git
+- LaTeX
+- Markdown
+##### What I came across (not confident enough to say 'learnt')
+- Spring (Boot, Data, Security)
+- HTML
+- CSS
+- JS (React + Redux, Angular)
+- PHP
+- Python (FastAPI)
+- Assembly
+- C
+- C++
+- Linux, bash
+- Algorythms and Data Structures
+##### Intending to learn in the nearest future
+- Go
+- gRPC
+- Docker
+- Kafka
+- Redis
 
 # Personal Interests #
-- Playing drums for 6 years
+- Playing drums for 6+ years
 - Strongly intend to learn to play bass, but don't have an instrument right now
 - I do love music (here's my [Spotify](https://open.spotify.com/user/31w5lxhoc74odz4fcialhynd2dom?si=4ad4a796de8e47ad) if you're interested)
 - Videogames (especially Souls-likes, Rogue-likes and indie stuff) (my [Steam](https://steamcommunity.com/id/oleg_egorovich/))
