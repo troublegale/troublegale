@@ -22,10 +22,10 @@
 	- Servlets, JSP, JSF
 	- JDBC, JPA, ORM (Hibernate)
 	- Spring
- 		- Boot
-   		- Web
-  		- Data
-    		- Secutiry
+		- Boot
+		- Web
+		- Data
+      		- Secutiry
       	- Tests (JUnit, Mockito)
 - SQL (Postgres)
 - Git
