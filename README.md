@@ -26,7 +26,7 @@
 		- Web
 		- Data
 		- Secutiry
-      	- Tests (JUnit, Mockito)
+	- Tests (JUnit, Mockito)
 - SQL (Postgres)
 - Git
 - Docker
