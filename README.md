@@ -25,7 +25,7 @@
 		- Boot
 		- Web
 		- Data
-      		- Secutiry
+		- Secutiry
       	- Tests (JUnit, Mockito)
 - SQL (Postgres)
 - Git
