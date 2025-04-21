@@ -52,5 +52,5 @@
 - Learning to play guitar & practising my vocals
 - I do love music (here's [my Spotify](https://open.spotify.com/user/31w5lxhoc74odz4fcialhynd2dom?si=4ad4a796de8e47ad) if you're interested)
 - Videogames (especially Souls-likes, Rogue-likes and indie stuff; [my Steam](https://steamcommunity.com/id/oleg_egorovich/))
-- Speedruns ([my profile at speedrun.com](https://www.speedrun.com/about))
+- Speedruns ([my profile at speedrun.com](https://www.speedrun.com/users/babyemogirl))
 - Languages (both natural and programming languages)
