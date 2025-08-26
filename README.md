@@ -2,17 +2,16 @@
 - **Ivan Kozhukhin**, 20 y.o.
 - Born in **Rostov-on-Don**, Russia
 - Currently living and studying in **St. Petersburg**
-- English C1/C2
+- English C1
 
 # Contacts #
-- hopsblockery@gmail.com
+- punks.wear.suits@gmail.com
 - tg: @lambdamale
 
 # Education #
 - Currently studying at [ITMO University](https://en.itmo.ru/)
-- **Software Engineering**, 3rd year of the **Bachelor** program
+- **Software Engineering**, 4th year of the **Bachelor** program
 - Going for a **Master's degree**
-- Planning to attend additional software engineering courses
 
 # Technologies
 ##### What I learnt
@@ -30,7 +29,7 @@
 - SQL (Postgres)
 - Git
 - Docker
-- Basic Linux
+- Linux
 - LaTeX
 - Markdown
 
