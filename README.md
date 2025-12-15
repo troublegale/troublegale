@@ -1,5 +1,5 @@
 # Personal info #
-- **Ivan Kozhukhin**, 20 y.o.
+- **Ivan Kozhukhin**, 21 y.o.
 - Born in **Rostov-on-Don**, Russia
 - Currently living and studying in **St. Petersburg**
 - English C1
