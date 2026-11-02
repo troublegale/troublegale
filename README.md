@@ -10,8 +10,8 @@
 
 # Education #
 - Currently studying at [ITMO University](https://en.itmo.ru/)
-- **Software Engineering**, 4th year of the **Bachelor** program
-- Going for a **Master's degree**
+- Bachelor: **Software Engineering**
+- 1st year of **Development of Assistive IT Solutions** Master's program
 
 # Technologies
 ##### What I learnt
@@ -49,7 +49,7 @@
 # Personal Interests #
 - Playing drums for 7+ years
 - Learning to play guitar & practising my vocals
-- I do love music (here's [my Spotify](https://open.spotify.com/user/31w5lxhoc74odz4fcialhynd2dom?si=4ad4a796de8e47ad) if you're interested)
+- I do love music (here's [my Spotify](https://open.spotify.com/user/31vbb43ffwbj7bqfto223ydqmzam?si=ae8f21f072464daf) if you're interested)
 - Videogames (especially Souls-likes, Rogue-likes and indie stuff; [my Steam](https://steamcommunity.com/id/oleg_egorovich/))
 - Speedruns ([my profile at speedrun.com](https://www.speedrun.com/users/babyemogirl))
 - Languages (both natural and programming languages)
